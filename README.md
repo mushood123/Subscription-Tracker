@@ -86,23 +86,6 @@ npm run lint --fix
 
 ---
 
-## 🤝 Contributing
-
-💡 Want to improve Subscription-Tracker? **Contributions are welcome!**  
-
-1. Fork the repo
-2. Create a feature branch (`git checkout -b feature-name`)
-3. Commit changes (`git commit -m 'Add feature-name'`)
-4. Push to branch (`git push origin feature-name`)
-5. Open a **Pull Request**  
-
----
-
-## 📜 License
-
-This project is **open-source** under the **MIT License**. See [`LICENSE`](LICENSE) for details.
-
----
 
 ## 📬 Contact
 

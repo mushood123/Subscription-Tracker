@@ -1,16 +1,4 @@
 
-Here's the **modern and structured** `README.md` with **NPM as the package manager** mentioned explicitly:  
-
----
-
-```markdown
-# 🚀 Subscription-Tracker
-
-![GitHub repo size](https://img.shields.io/github/repo-size/mushood123/Subscription-Tracker?color=blue&style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/mushood123/Subscription-Tracker?color=green&style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/mushood123/Subscription-Tracker?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/mushood123/Subscription-Tracker?color=red&style=for-the-badge)
-
 ## 📌 Overview
 
 **Subscription-Tracker** is a **RESTful API** designed to help users **manage and track their subscriptions efficiently**. It ensures **timely email reminders** for renewals and enhances security using **Arcjet** to prevent request bombing and bot attacks.
